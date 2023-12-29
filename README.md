@@ -20,10 +20,10 @@ Quizzler is a quiz game that presents users with a series of true/false question
    ```bash
    git clone https://github.com/your-username/quizzler.git
 
-2. Install the required dependencies:
+# Install the required dependencies:
    pip install requests
 
-3. Run the quiz_interface.py file:
+# Run the quiz_interface.py file:
    python quiz_interface.py
 
 
